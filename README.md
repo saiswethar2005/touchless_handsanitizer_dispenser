@@ -7,5 +7,5 @@ Components Used
 - Ultrasonic Sensor
 - Servo Motor
 
-Author
+Author:
 Sai Swetha
